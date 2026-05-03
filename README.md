@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Vaishnavi 
 
-💻 Engineering student exploring tech
-🚀 Interested in Web Dev & Open Source
-🌱 Currently learning: React, Git, Open Source
+#💻 Engineering student exploring tech
+#🚀 Interested in Web Dev & Open Source
+#🌱 Currently learning: React, Git, Open Source
 
-Tech Stack
-Languages: C++, JavaScript, Python
-Tools: Git, GitHub, VS Code
-Web: HTML, CSS
+#Tech Stack
+#Languages: C++, JavaScript, Python
+#Tools: Git, GitHub, VS Code
+#Web: HTML, CSS
 <!--
 **vaishnavisaxena063/vaishnavisaxena063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
